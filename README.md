@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gelson! 👋
 
-<div>
+<div align="center">
   <a href="https://github.com/theghhz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theghhz&count_private=true&show_icons=true&theme=dracula"/>
 </div>
