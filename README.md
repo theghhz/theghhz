@@ -25,5 +25,4 @@
 </div>
   
   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theghhz&repo=copo)](https://github.com/theghhz/copo)
  
